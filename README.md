@@ -1,4 +1,4 @@
-### Hi, I'm Rajiu 👋
+### Hi, I'm Rajiv 👋
 
 Software Engineer building business web applications with **React.js, Python, Django, PHP, and MySQL**.
 
